@@ -1,2 +1,3 @@
 # This repo will have all info about Git that we learned
-For commiting changes you need to add the file to tracking, then write a message in the past tense and click the Commit button
+The main advantage of Git is that it is very fast and transparent. It is useful for small projects and for huge systems with thousands of participants.
+Unlike Perforce, CVS and others, Git stores snapshots of repositories rather than lists of changes to files, so it is much faster.
